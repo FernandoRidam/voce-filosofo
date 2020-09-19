@@ -1,6 +1,8 @@
 {
+  "name": "Você Filósofo?!",
+  "displayName": "Você Filósofo?!",
   "expo": {
-    "name": "filosofo",
+    "name": "Você Filósofo?!",
     "slug": "filosofo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,6 +20,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fernando.ridam.filosofo"
     },
     "web": {
       "favicon": "./assets/favicon.png"

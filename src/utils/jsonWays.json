@@ -1,0 +1,211 @@
+[
+    {
+        "type": "question",
+        "id": "A0",
+        "question": "Você acha que a humanidade presta?",
+        "yes": "A4",
+        "no": "A1"
+    },
+
+    {
+        "type": "question",
+        "id": "A1",
+        "question": "Mas ela pode prestar, se se esforçar?",
+        "yes": "B1",
+        "no": "A2"
+    },
+
+    {
+        "type": "question",
+        "id": "A2",
+        "question": "Isso é algo que te causa angústia?",
+        "yes": "B2",
+        "no": "E3"
+    },
+
+    {
+        "type": "question",
+        "id": "A3",
+        "question": "A existência ou não de Deus é algo importante em sua vida?",
+        "yes": "C3",
+        "no": "A2"
+    },
+
+    {
+        "type": "question",
+        "id": "A4",
+        "question": "Mas você, particularmente, presta bem pouco?",
+        "yes": "E5",
+        "no": "B4"
+    },
+
+    {
+        "type": "question",
+        "id": "B1",
+        "question": "Você acredita que o Universo e todas as coisas foram criados por um Deus?",
+        "yes": "C1",
+        "no": "B3"
+    },
+
+    {
+        "type": "question",
+        "id": "B2",
+        "question": "Você está disposto a fazer algo a respeito?",
+        "yes": "C2",
+        "no": "F3"
+    },
+
+    {
+        "type": "question",
+        "id": "B3",
+        "question": "Deve-se buscar a liberdade acima de tudo, sempre?",
+        "yes": "D2",
+        "no": "E4"
+    },
+
+    {
+        "type": "question",
+        "id": "B4",
+        "question": "Para você, a ambição é uma coisa positiva?",
+        "yes": "C4",
+        "no": "A3"
+    },
+
+    {
+        "type": "question",
+        "id": "C1",
+        "question": "Para você, esse Deus está mais próximo das religiões abraâmicas, como o cristianismo e o judaísmo (responda 'SIM') ou da natureza (responda 'NÃO)?",
+        "yes": "C3",
+        "no": "D1"
+    },
+
+    {
+        "type": "question",
+        "id": "C2",
+        "question": "A busca pela felicidade envvolve, necessariamente, a busca por Deus?",
+        "yes": "E1",
+        "no": "E4"
+    },
+
+    {
+        "type": "question",
+        "id": "C3",
+        "question": "Mas a temeridade a Deus é um ato egoista, uma vez que buscamos recompensa?",
+        "yes": "F4",
+        "no": "C2"
+    },
+
+    {
+        "type": "question",
+        "id": "C4",
+        "question": "É possível, para um ser humano, obter verdades puras a partir de pesquisa e cultura?",
+        "yes": "D3",
+        "no": "F2"
+    },
+
+    {
+        "type": "question",
+        "id": "D1",
+        "question": "Já teve vontade de largar tudo e ir morar numa cabana no meio do mato?",
+        "yes": "F3",
+        "no": "C2"
+    },
+
+    {
+        "type": "question",
+        "id": "D2",
+        "question": "Nossa liberdade é esmagada pelo peso sinistro das outras coisas?",
+        "yes": "E2",
+        "no": "F3"
+    },
+
+    {
+        "type": "question",
+        "id": "D3",
+        "question": "É possível fugir da dor da vida e atingir a felicidade plena?",
+        "yes": "B3",
+        "no": "F4"
+    },
+
+    {
+        "type": "question",
+        "id": "E1",
+        "question": "A esseência de uma pessoa vem das escolhas que ela faz, e não de valores externos?",
+        "yes": "F2",
+        "no": "F1"
+    },
+
+    {
+        "type": "question",
+        "id": "E2",
+        "question": "As mulheres sofrem mais que os homens?",
+        "yes": "F5",
+        "no": "F4"
+    },
+
+    {
+        "type": "question",
+        "id": "E3",
+        "question": "Você quer mais é que todo mundo vá para o inferno mesmo?",
+        "yes": "F6",
+        "no": "F3"
+    },
+
+    {
+        "type": "question",
+        "id": "E4",
+        "question": "Dinheiro então?",
+        "yes": "E5",
+        "no": "E3"
+    },
+
+    {
+        "type": "question",
+        "id": "E5",
+        "question": "É justo (ou, ao menos, natural) que algumas pessoas tenham muito e outras tenham pouco?",
+        "yes": "F6",
+        "no": "F5"
+    },
+
+    {
+        "type": "person",
+        "id": "F1",
+        "name": "Tomás de Aquino",
+        "ideology": "Para ele, tanto a fé como a razão vêm de Deus. Tentou provar a existência d'Ele com argumentos!"
+    },
+
+    {
+        "type": "person",
+        "id": "F2",
+        "name": "Descartes",
+        "ideology": "'Penso, logo existo.' As verdades estão na nossa mente e podem ser atingidas. Podemos pensar em Deus, então ele existe!"
+    },
+
+    {
+        "type": "person",
+        "id": "F3",
+        "name": "Laozi",
+        "ideology": "'Ação pela inação', ou seja, agir com maturidade. Pregou a distância do artificial, como governos e rituais!"
+    },
+
+    {
+        "type": "person",
+        "id": "F4",
+        "name": "Schopenhauer",
+        "ideology": "A vida é dor, a existência não faz sentido e não vale a pena viver porque cada vontade realizada é trocada por outra!"
+    },
+
+    {
+        "type": "person",
+        "id": "F5",
+        "name": "Simone de Beauvoir",
+        "ideology": "Existencialista, dizia que nossos papéis são construídos pela sociedade, mas podemos subvertê-los!"
+    },
+
+    {
+        "type": "person",
+        "id": "F6",
+        "name": "Maquiavel",
+        "ideology": "Todas as pessoas são corruptíveus e egoístas. Um líder, portanto, precisa ter qualidades, só parecer que tem!"
+    }
+]
