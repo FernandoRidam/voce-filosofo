@@ -82,7 +82,7 @@
     {
         "type": "question",
         "id": "C2",
-        "question": "A busca pela felicidade envvolve, necessariamente, a busca por Deus?",
+        "question": "A busca pela felicidade envolve, necessariamente, a busca por Deus?",
         "yes": "E1",
         "no": "E4"
     },
@@ -130,7 +130,7 @@
     {
         "type": "question",
         "id": "E1",
-        "question": "A esseência de uma pessoa vem das escolhas que ela faz, e não de valores externos?",
+        "question": "A essência de uma pessoa vem das escolhas que ela faz, e não de valores externos?",
         "yes": "F2",
         "no": "F1"
     },
@@ -206,6 +206,6 @@
         "type": "person",
         "id": "F6",
         "name": "Maquiavel",
-        "ideology": "Todas as pessoas são corruptíveus e egoístas. Um líder, portanto, precisa ter qualidades, só parecer que tem!"
+        "ideology": "Todas as pessoas são corruptíveus e egoístas. Um líder, portanto, não precisa ter qualidades, só parecer que tem!"
     }
 ]
